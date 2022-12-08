@@ -10,7 +10,7 @@ Aufgabe:
 - Tamara Radomir
 
 ## Link zur App 
-* https://github.com/Chavalentas/Software_Deployment_Uebung_App
+* https://github.com/tamara201/Software_Deployment_Uebung_App
 
 ## Dokumentation
 1. Es wurde eine einfache Applikation erstellt, die ein einfaches **Hello World** Programm demonstriert.
