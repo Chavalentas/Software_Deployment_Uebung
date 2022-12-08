@@ -19,6 +19,8 @@ Aufgabe:
 4. Es wurde ein Azure DevOps Projekt erstellt, wo eine Pipeline erstellt wurde, die das Dockerimage baut
 und in die Container Registry ablegt. 
 5. Nach der **Build** und **Deploy** Phase ist die Applikation unter **20.73.232.158:8080** aufrufbar.
+6. Nach jedem Commit werden die **Build** und **Deploy** Phase neu ausgeführt und die Änderungen werden im Cluster übernommen.
+Wenn man wieder **20.73.232.158:8080** aufruft, sieht man die Änderungen.
 
 ## Entscheidungen
 
