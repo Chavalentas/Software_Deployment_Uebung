@@ -14,10 +14,10 @@ Aufgabe:
 
 ## Dokumentation
 1. Es wurde eine einfache Applikation erstellt, die ein einfaches **Hello World** Programm demonstriert.
-2. Es wurde ein Dockerfile erstellt, das die Applikation zur auf dem Port 8080 zur Verfügung stellt.
+2. Es wurde ein Dockerfile erstellt, das die Applikation auf dem Port 8080 zur Verfügung stellt.
 3. Es wurde eine Ressourcengruppe für eine Container Registry und einen Kubernetes cluster erstellt.
 4. Es wurde ein Azure DevOps Projekt erstellt, wo eine Pipeline erstellt wurde, die das Dockerimage baut
-und in die Container Registry ablegt. 
+und in der Container Registry ablegt. 
 5. Nach der **Build** und **Deploy** Phase ist die Applikation unter **20.73.232.158:8080** aufrufbar.
 6. Nach jedem Commit werden die **Build** und **Deploy** Phase neu ausgeführt und die Änderungen werden im Cluster übernommen.
 Wenn man wieder **20.73.232.158:8080** aufruft, sieht man die Änderungen.
