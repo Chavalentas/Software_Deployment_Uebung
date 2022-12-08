@@ -28,12 +28,40 @@ und in die Container Registry ablegt.
 
 ## Screenshots
 
+### Build
+Der folgenden Screenshot zeigt den **Build Prozess** der Pipeline.
+<p align="center">
+<img src="./Screenshots/build.png">
+</p>
+
+### Deploy
+Der folgenden Screenshot zeigt den **Deploy Prozess** der Pipeline.
+<p align="center">
+<img src="./Screenshots/deploy.png">
+</p>
+
+### Deployments
+Der folgenden Screenshot zeigt die **erfolgreichen und fehlgeschlagenen Deployments**.
+<p align="center">
+<img src="./Screenshots/deployments.png">
+</p>
+
+### Pipeline
+Der folgenden Screenshot zeigt die **Pipeline**.
+<p align="center">
+<img src="./Screenshots/pipeline.png">
+</p>
+
+### Cluster
+Der folgenden Screenshot zeigt den erstellten **Kubernetes Service**.
+<p align="center">
+<img src="./Screenshots/cluster.png">
+</p>
 
 ### Website
 <p align="center">
 <img src="./Screenshots/website.png">
 </p>
-
 
 ## Links
 
