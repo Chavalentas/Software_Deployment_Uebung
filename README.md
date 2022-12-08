@@ -17,9 +17,16 @@ Aufgabe:
 
 ## Entscheidungen
 
+-   Azure Container Registry wurde auf Grund der guten Anbindung an den AKS-Cluster gewählt.
+-   Hier wurde die Basic Version gewählt, weil diese am kostengünstigsten ist.
+-   Als Applikation wurde eine simple Hello World Applikation gewählt, da diese für den Zweck ausreichend ist.
 
 ## Screenshots
 
+### Website
+<p align="center">
+<img src="./Images/website.png">
+</p>
 
 ## Links
 
