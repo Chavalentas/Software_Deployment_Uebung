@@ -13,7 +13,12 @@ Aufgabe:
 * https://github.com/Chavalentas/Software_Deployment_Uebung_App
 
 ## Dokumentation
-
+1. Es wurde eine einfache Applikation erstellt, die ein einfaches **Hello World** Programm demonstriert.
+2. Es wurde ein Dockerfile erstellt, das die Applikation zur auf dem Port 8080 zur Verfügung stellt.
+3. Es wurde eine Ressourcengruppe für eine Container Registry und einen Kubernetes cluster erstellt.
+4. Es wurde ein Azure DevOps Projekt erstellt, wo eine Pipeline erstellt wurde, die das Dockerimage baut
+und in die Container Registry ablegt. 
+5. Nach der **Build** und **Deploy** Phase ist die Applikation unter **20.73.232.158:8080** aufrufbar.
 
 ## Entscheidungen
 
@@ -23,11 +28,14 @@ Aufgabe:
 
 ## Screenshots
 
+
 ### Website
 <p align="center">
 <img src="./Screenshots/website.png">
 </p>
 
+
 ## Links
 
 * [Build and deploy to Azure Kubernetes Service with Azure Pipelines](https://learn.microsoft.com/en-us/azure/aks/devops-pipeline?pivots=pipelines-yaml)
+* [Docker tutorial](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
