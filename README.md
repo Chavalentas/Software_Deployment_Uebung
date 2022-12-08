@@ -25,7 +25,7 @@ Aufgabe:
 
 ### Website
 <p align="center">
-<img src="./Images/website.png">
+<img src="./Screenshots/website.png">
 </p>
 
 ## Links
